@@ -1,4 +1,5 @@
 # PHSX815_Week11
+
 ## Homework 12
 
 - Generate data from a "mixture model"
